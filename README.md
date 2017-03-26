@@ -1,5 +1,4 @@
 # Java-CyberCafe
-This is automated cyber cafe management system Project which makes it very easy for administrator to search details.
 CYBER CAFÉ MANAGEMENT SYSTEM
 This is automated cyber cafe management system Project in Java it makes it very easy for administrator to search details. Also it time allotment is done very efficiently and it provides fast service in term of the bill calculation and time management. This therefore is very advantageous to both administrator and user.
 Drawbacks of Manual System: 
@@ -8,6 +7,7 @@ Drawbacks of Manual System:
 •	Searching is difficult.
 •	Repetition of work is going on.
 •	Keeping track of cabin status is tedious job. 
+
 
 Cyber Cafe Management System Modules:
 There are six modules in this application add member, add time, balance, bill, reports and exit modules.
@@ -24,13 +24,6 @@ Advantages of computerized system over manual system are:
 •	Computerized system generates online reports.
 •	It reduces the data consistency and redundancy.
 •	Computerized system is very helpful to display all records.
- HARDWARE REQUIREMENTS
-
-	Processor 1 GHz
-	At least 1-GB RAM preferred
-	Hard disk of size 20GB or above
-	Monitor
-	Keyboard and mouse
 
 SOFTWARE REQUIREMENTS
 
